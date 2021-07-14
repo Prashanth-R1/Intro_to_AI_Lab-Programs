@@ -1,4 +1,4 @@
-  s=True
+        s=True
 	t=True
 	a=not(s or t)
 	b= s and t
