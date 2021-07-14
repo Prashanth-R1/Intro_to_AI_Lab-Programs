@@ -1,4 +1,4 @@
-     flag=True
+         flag=True
    	 while flag:
 	    perc=input("enter the percept")
 	    loc=input("enter the location")
