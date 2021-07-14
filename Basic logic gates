@@ -1,4 +1,4 @@
-  a=True
+        a=True
 	b=False
 	bic=(not a or b)and (not b or a)
 	print(bic)
